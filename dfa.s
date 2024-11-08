@@ -1,4 +1,4 @@
-#Luna Galvich
+#Luna
 #Assignment3 - IntroCompOrg
 
 
